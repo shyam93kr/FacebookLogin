@@ -1,0 +1,38 @@
+.facebookheader {
+    height: 100px;
+    width: 100%;
+    background-color: #405d9b;
+}
+
+.loginform{
+
+    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+
+}
+
+.spanMargin{
+    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 413px;
+}
+
+.facebookLogo{
+    font-size: 41px;
+    color: white;
+    margin-left: 58px;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.facebookCred {
+    display:inline-block;
+}
